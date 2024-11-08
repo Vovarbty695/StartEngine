@@ -1,2 +1,0 @@
-int SCREEN_WINDTH = 800;
-int SCREEN_HEIGHT = 600;
