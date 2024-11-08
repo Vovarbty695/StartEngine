@@ -1,7 +1,4 @@
 build
 
-README.txt
-
-README.md
-
-
+*.md
+*.txt
